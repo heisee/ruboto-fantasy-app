@@ -1,0 +1,8 @@
+This project is to play around with some "design patterns" on how
+the structure of a Ruboto app could look like.
+I just copied some code form the demo-android-api.rb and put it in here.
+As you can see quickly, it looks pretty "railsy".
+
+
+TODO:
+- how do models interact with the activities lifecycle? (i.e. automatically persistet)
